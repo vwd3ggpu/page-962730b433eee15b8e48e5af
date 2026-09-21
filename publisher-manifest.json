@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "497f732cf3154280cda60ca2",
+  "owner": "vwd3ggpu",
+  "repo": "page-962730b433eee15b8e48e5af",
+  "title": "Dotunnel",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "962730b433eee15b8e48e5af",
+      "a": "Dotunnel",
+      "b": "机场官网线路发布页",
+      "entity": "Dotunnel",
+      "brand": "Dotunnel",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "fedd288b3dd40ce6a09456ca346e1487f1ee682da7a015945d395a9081c44140",
+      "content": {
+        "primary_entity": "Dotunnel",
+        "keyword1": "Dotunnel",
+        "keyword2": "机场官网线路发布页",
+        "content": {
+          "AI_DESCRIPTION": "，面向需要海外线路加速的日常用户，按流量、并发设备与线路等级划分套餐，方便按需订阅。基础版每月 100GB 流量、支持 3 台设备；旗舰版每月 300GB、5 台设备并搭载 IPLC 专线；团队版每月 1000GB、20 台设备，适合小型工作室。选择时先确认常用设备数量与月均流量，再对照线路类型决定订阅周期。",
+          "AI_HERO_SUBTITLE": "按流量与设备数选择套餐",
+          "AI_HERO_INTRO": "Dotunnel 提供多档海外线路加速套餐，覆盖基础浏览、流媒体与专线游戏加速场景。套餐按月或按年计费，年付价格更划算。订阅前先明确常用设备数量、每月大概用量以及是否需要低延迟专线，再对应挑选合适档位。",
+          "AI_VISUAL_TITLE": "按需订阅，灵活选择",
+          "AI_HIGHLIGHT_1": "月付年付灵活切换",
+          "AI_HIGHLIGHT_2": "按设备数与流量分档",
+          "AI_HIGHLIGHT_3": "覆盖日常与专线场景",
+          "AI_FEATURES_TITLE": "套餐与使用要点",
+          "AI_FEATURES_INTRO": "结合流量额度、在线设备数和线路类型，选出匹配日常使用强度的订阅方案。",
+          "AI_FEATURE_TITLE_1": "按流量选档",
+          "AI_FEATURE_TEXT_1": "基础版 100GB、旗舰版 300GB、团队版 1000GB，按每月实际用量选择即可。",
+          "AI_FEATURE_TITLE_2": "按设备数选档",
+          "AI_FEATURE_TEXT_2": "支持 3 台、5 台或 20 台设备同时在线，多人共用建议选团队版。",
+          "AI_FEATURE_TITLE_3": "按周期订阅",
+          "AI_FEATURE_TEXT_3": "月付适合先试用，年付折合更低，长期使用可选对应年付价格。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "不同系统对应不同客户端，请依客户端文档导入订阅使用。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_PLANS_INTRO": "基础版 ¥15/月或 ¥150/年，旗舰版 ¥35/月或 ¥350/年，团队版 ¥85/月或 ¥850/年。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_GUIDE_INTRO": "从选择套餐到完成订阅配置，三步即可开始使用。",
+          "AI_STEP_TITLE_1": "选择套餐",
+          "AI_STEP_TEXT_1": "根据常用设备数量与月均流量，在基础版、旗舰版、团队版之间选定档位。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端是否满足套餐对应的连接要求。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_STEP_TEXT_3": "依客户端文档导入订阅信息，完成后即可在设备上启用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "Dotunnel 套餐怎么选？",
+          "AI_FAQ_ANSWER_1": "先看常用设备数量：1 到 3 台选基础版，4 到 5 台选旗舰版，多人或工作室选团队版。再对照月均流量，100GB 以内基础版够用，300GB 左右选旗舰版，重度使用选团队版。",
+          "AI_FAQ_QUESTION_2": "年付和月付有什么区别？",
+          "AI_FAQ_ANSWER_2": "月付按月扣费，适合先试用；年付一次性支付，折合每月成本更低。基础版年付 ¥150、旗舰版 ¥350、团队版 ¥850，长期使用年付更划算。",
+          "AI_FAQ_QUESTION_3": "一个账号能同时用几台设备？",
+          "AI_FAQ_ANSWER_3": "基础版支持 3 台设备同时在线，旗舰版 5 台，团队版 20 台。若家里多台手机、电脑和平板同时使用，建议按设备总数选择对应档位。",
+          "AI_FAQ_QUESTION_4": "订阅如何导入客户端？",
+          "AI_FAQ_ANSWER_4": "在对应设备的客户端中，按客户端文档提供的步骤导入订阅信息即可。不同系统的客户端操作界面略有差异，以客户端内实际提示为准。",
+          "AI_FAQ_QUESTION_5": "旗舰版的 IPLC 专线适合什么场景？",
+          "AI_FAQ_ANSWER_5": "IPLC 专线线路延迟较低，适合对响应速度敏感的游戏加速或实时交互场景。若只是日常浏览和流媒体，基础版线路通常已能满足。",
+          "AI_CLOSING_TITLE": "选对套餐，轻松加速",
+          "AI_CLOSING_TEXT": "按设备数与流量选定档位，再依客户端文档完成订阅配置即可开始使用。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "5vk0xg.cn",
+    "host": "5vk0xg.cn"
+  },
+  "file_hashes": {
+    "index.html": "5a9194d7b4a318e83a8871c40cc18c3d751f11540fc92ee02a38290e27613b64",
+    "sitemap.xml": "f89b8b8cd928cc4d9e9f058a2e620f7d9694cdf5c1906fd8a2c138f10a73c4e4",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "47415ff2709b701d6db0906e7383d0c66e92685b2a2edb8e1368c14e7df3ab80",
+    "robots.txt": "f42c4fa6c7402afb5de1747ff79182d1f9bd3b7c95fca569376dcab5dbb167ac",
+    "0f9ee87d5c164dd9f06d3591eabf481e.txt": "c2c1d5386f39eeb3efe70e3e80c4e8ac25e2a899b2c310bb1050acb9a80fd5e1"
+  },
+  "revision": "cdc9d31aae91f436ad649ae4da5f103e88d8f38cea550719dc49bec6f459e5d3"
+}
